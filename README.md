@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel Pereira
+- 👋 Hi, I’m Danny.
 - 👀 I’m a full-time student looking for co-op positions in computer programming and software/app development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to learn as much as I can about programming.
